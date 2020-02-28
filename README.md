@@ -49,4 +49,5 @@ The paper "Learning Sparse Latent Representations with the Deep Copula IB" has b
 }
 ```
 
-
+## Code Maintenance & Support
+This code is no longer maintained and we will unfortunately not be able to provide support. 
